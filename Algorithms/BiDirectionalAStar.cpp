@@ -2,6 +2,7 @@
 
 #include "BiDirectionalAStar.h"
 #include "PairHashing.h"
+#include<unordered_map>
 #include <set>
 
 using std::multiset;
